@@ -1,0 +1,10 @@
+D:\usr\vs2022\ThreadPool01\ThreadPool01\bin\Debug\ThreadPool01.exe.config
+D:\usr\vs2022\ThreadPool01\ThreadPool01\bin\Debug\ThreadPool01.exe
+D:\usr\vs2022\ThreadPool01\ThreadPool01\bin\Debug\ThreadPool01.pdb
+D:\usr\vs2022\ThreadPool01\ThreadPool01\obj\Debug\ThreadPool01.csproj.AssemblyReference.cache
+D:\usr\vs2022\ThreadPool01\ThreadPool01\obj\Debug\ThreadPool01.Form1.resources
+D:\usr\vs2022\ThreadPool01\ThreadPool01\obj\Debug\ThreadPool01.Properties.Resources.resources
+D:\usr\vs2022\ThreadPool01\ThreadPool01\obj\Debug\ThreadPool01.csproj.GenerateResource.cache
+D:\usr\vs2022\ThreadPool01\ThreadPool01\obj\Debug\ThreadPool01.csproj.CoreCompileInputs.cache
+D:\usr\vs2022\ThreadPool01\ThreadPool01\obj\Debug\ThreadPool01.exe
+D:\usr\vs2022\ThreadPool01\ThreadPool01\obj\Debug\ThreadPool01.pdb
